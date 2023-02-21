@@ -7,4 +7,5 @@ Kodda, Selenium kütüphanesi kullanarak bir tarayıcı açılır, Youtube'un po
 with anahtar kelimesi ile dosya açılır ve dosya modu w olarak belirtilir, bu mod dosyayı yazmak için açar ve dosyanın içeriğini siler. Daha sonra, bir döngü kullanılarak, her başlık dosyaya yazdırılır. encoding='utf-8' argümanı, dosyada Türkçe karakterleri desteklemek için kullanılır.
 
 Sonuç olarak, kod dosyaya video-title sınıfı altındaki başlıkları yazdırır ve her başlık arasında 2 satır boşluk bırakır.
+Not: Youtube şu anlık ilk sayfada 30 tane video olduğu için bu kod şuanlık maks 30 tane başlık çekecektir.
 </h3>
